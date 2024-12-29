@@ -1,0 +1,1 @@
+FROM ./Llama-3.3-70B-Instruct-IQ1_M.gguf
